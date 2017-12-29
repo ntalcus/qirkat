@@ -1,0 +1,50 @@
+#this is also bad for my AI
+java -ea qirkat.Main
+clear
+start
+c2-c3
+dump
+@<===
+@<  b b b b b
+@<  b b - b b
+@<  b b - w w
+@<  w w b w w
+@<  w w w w w
+@<===
+c1-c3
+dump
+@<===
+@<  b b b b b
+@<  b b - b b
+@<  - b w w w
+@<  w - - w w
+@<  w w b w w
+@<===
+c3-a3
+dump
+@<===
+@<  b b b b b
+@<  b - - b b
+@<  w b - w w
+@<  w - - w w
+@<  w w b w w
+@<===
+a3-c3
+dump
+@<===
+@<  b b b b b
+@<  b - - - b
+@<  - - - w w
+@<  w b - w w
+@<  w w b w w
+@<===
+a1-c3
+dump
+@<===
+@<  b b b b b
+@<  b - - - b
+@<  b - w w w
+@<  - - - w w
+@<  - - - w w
+@<===
+d1-c1
